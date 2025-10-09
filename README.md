@@ -1,2 +1,2 @@
-# class work repo-
+# 100 Days of Code
 Class Work
